@@ -7,6 +7,6 @@ public class ForkAndPullRequest {
 	@Test
 	public void sample()
 	{
-		Reporter.log("ForkAndPullRequest testcase passed",true);
+		Reporter.log("ForkAndPullRequest testcase",true);
 	}
 }
